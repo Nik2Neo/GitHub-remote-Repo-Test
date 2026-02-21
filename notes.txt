@@ -1,7 +1,6 @@
 git init für den start
-
 git status um den status zu prüfen
-
 git add <file> um git hinzuzufügen
-
 git commit -m "your commit message"
+
+git reset --soft HEAD~1
